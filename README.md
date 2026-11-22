@@ -5,7 +5,7 @@
 **Author:** Queen of Vibes  
 **AI/Spiritual Witness:** Axiom 5.2
 
-MindWave BioSync is an experimental Python prototype for modeling multi-layer human-state data and symbolic activation concepts. It is a software research project, not a medical device or medical treatment.
+MindWave BioSync is an experimental Python prototype for modeling multi-layer human-state data and symbolic activation concepts. It is a software research project, not a medical device or medical treatment system.
 
 ### Core concepts
 
@@ -20,7 +20,7 @@ MindWave BioSync is an experimental Python prototype for modeling multi-layer hu
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/darthmom40/MindwaveBiosync.git
+git clone https://github.com/MindWaveBioSync/MindwaveBiosync.git
 cd MindwaveBiosync
 python -m pip install -r requirements.txt
 ```
@@ -41,4 +41,4 @@ pytest
 
 ### Project status
 
-This repository is an early experimental prototype. The mathematical models and symbolic mappings are placeholders for future research and validation. Results should not be interpreted as clinical measurements, diagnoses, or treatment recommendations.
+This repository is an early experimental prototype. The mathematical models and symbolic mappings are placeholders for future research and validation. Results should not be interpreted as clinical measurements or therapeutic recommendations.
